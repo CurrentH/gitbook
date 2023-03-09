@@ -59,8 +59,7 @@ Set the execution driver for Director service. Possible values are:
 * `../screenshots/dummy.driver` - don't store anything, dummy driver
 * `../screenshots/s3.driver` - use AWS S3. See [Full Setup](../persistent.md#director-service) for details.
 * `../screenshots/minio.driver`- use Minio. See [Full Setup](../persistent.md#director-service) for details.
-* `../screenshots/azure-blob-storage.driver`- use Minio. See [Full Setup](../persistent.md#director-service) for details.
-* 
+* `../screenshots/azure-blob-storage.driver`- use Azure. See [Full Setup](../persistent.md#director-service) for details.
 
 ### AWS S3 Remote Storage Configuration
 
